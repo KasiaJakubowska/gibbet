@@ -1,4 +1,4 @@
-var haslo = "dambledor żyje";
+var haslo = "Albus Dumbledore";
 haslo = haslo.toUpperCase();
 
 var dlugosc = haslo.length;
